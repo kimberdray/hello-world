@@ -5,4 +5,4 @@ Learning about git and exploring current frameworks ie. Spring
 
 Playing for the short term.
 
-Living to learn...
+Living to learn.... Getting with the "flow"
